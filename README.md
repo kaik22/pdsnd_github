@@ -7,7 +7,10 @@
 The aim of this project is to assist the user with the analysis of bikeshare company data
 
 ### Files used
-Include the files used
+
+* chicago.csv'
+* new_york_city.csv
+* washington.csv
 
 ## Credits
 Inquirer library used: Found this library to make the user get an input fromt a list: 
