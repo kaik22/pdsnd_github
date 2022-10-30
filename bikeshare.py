@@ -8,7 +8,7 @@ import inquirer as iq
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york': 'new_york_city.csv',
               'washington': 'washington.csv' }
-
+#If new data is provided, we might need to include more months into the MONTHS List
 MONTHS = ['january', 'february', 'march', 'april', 'may', 'june']
 
 WEEKDAYS = ['sunday', 'monday', 'tuesday', 'wednesday', \
@@ -65,9 +65,9 @@ def continue_query():
 
 def time_filter_input():
     """
-    Call for getting if the user wants to apply any type of filter on the data
+    Call for getting if the user wants to apply any type of filter on the data to be explored
     Return:
-    Response to question
+    Response to question:
     str - 'Yes, I want to filter by month'
     str - 'Yes, I want to to filter by a specifc day'
     str - 'Yes, I want to filter by a specific weekday'
