@@ -16,4 +16,5 @@ The aim of this project is to assist the user with the analysis of bikeshare com
 Inquirer library used: Found this library to make the user get an input fromt a list: 
 https://bobbyhadz.com/blog/python-select-option-input 
 
-
+## Known-bugs
+No bug as of 30/10/2022
