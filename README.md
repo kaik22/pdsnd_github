@@ -12,6 +12,8 @@ Describe what your project is about and what it does
 ### Files used
 Include the files used
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+## Credits
+Inquirer library used: Found this library to make the user get an input fromt a list: 
+https://bobbyhadz.com/blog/python-select-option-input 
+
 
