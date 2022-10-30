@@ -8,7 +8,7 @@ import inquirer as iq
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york': 'new_york_city.csv',
               'washington': 'washington.csv' }
-
+#If new data is provided, we might need to include more months into the MONTHS List
 MONTHS = ['january', 'february', 'march', 'april', 'may', 'june']
 
 WEEKDAYS = ['sunday', 'monday', 'tuesday', 'wednesday', \
